@@ -1,0 +1,37 @@
+17                                                                          (number of intensity files)
+i_j0_j1_fort.13
+i_j1_j1_fort.13
+i_j1_j2_fort.13.e-o
+i_j1_j2_fort.13.o-e
+i_j2_j2_fort.13
+i_j2_j3_fort.13.e-o
+i_j2_j3_fort.13.o-e
+i_j3_j3_fort.13
+i_j3_j4_fort.13.e-o
+i_j3_j4_fort.13.o-e
+i_j4_j4_fort.13
+i_j4_j5_fort.13.e-o
+i_j4_j5_fort.13.o-e
+i_j5_j5_fort.13
+i_j5_j6_fort.13.e-o
+i_j5_j6_fort.13.o-e
+i_j6_j6_fort.13
+13
+e_j0_fort.14
+r-e_j1_fort.14
+r-o_j1_fort.14
+r-e_j2_fort.14
+r-o_j2_fort.14
+r-e_j3_fort.14
+r-o_j3_fort.14
+r-e_j4_fort.14
+r-o_j4_fort.14
+r-e_j5_fort.14
+r-o_j5_fort.14
+r-e_j6_fort.14
+r-o_j6_fort.14
+SiO2_J6_all.trans                                                                   ( Transition file               
+SiO2_J6_all.states                                                                  ( Energy file )                
+ 41145.93
+ .2086170216
+

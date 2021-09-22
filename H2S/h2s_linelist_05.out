@@ -1,0 +1,341 @@
+Counting energies...
+process fort.14_J0_ipar0
+process fort.14_J0_ipar1
+process fort.14_J1_ipar0
+process fort.14_J1_ipar1
+process fort.14_J2_ipar0
+process fort.14_J2_ipar1
+process fort.14_J3_ipar0
+process fort.14_J3_ipar1
+process fort.14_J4_ipar0
+process fort.14_J4_ipar1
+process fort.14_J5_ipar0
+process fort.14_J5_ipar1
+process fort.14_J6_ipar0
+process fort.14_J6_ipar1
+process fort.14_J7_ipar0
+process fort.14_J7_ipar1
+process fort.14_J8_ipar0
+process fort.14_J8_ipar1
+process fort.14_J9_ipar0
+process fort.14_J9_ipar1
+process fort.14_J10_ipar0
+process fort.14_J10_ipar1
+process fort.14_J11_ipar0
+process fort.14_J11_ipar1
+process fort.14_J12_ipar0
+process fort.14_J12_ipar1
+process fort.14_J13_ipar0
+process fort.14_J13_ipar1
+process fort.14_J14_ipar0
+process fort.14_J14_ipar1
+process fort.14_J15_ipar0
+process fort.14_J15_ipar1
+process fort.14_J16_ipar0
+process fort.14_J16_ipar1
+process fort.14_J17_ipar0
+process fort.14_J17_ipar1
+process fort.14_J18_ipar0
+process fort.14_J18_ipar1
+process fort.14_J19_ipar0
+process fort.14_J19_ipar1
+process fort.14_J20_ipar0
+process fort.14_J20_ipar1
+process fort.14_J21_ipar0
+process fort.14_J21_ipar1
+process fort.14_J22_ipar0
+process fort.14_J22_ipar1
+process fort.14_J23_ipar0
+process fort.14_J23_ipar1
+process fort.14_J24_ipar0
+process fort.14_J24_ipar1
+process fort.14_J25_ipar0
+process fort.14_J25_ipar1
+process fort.14_J26_ipar0
+process fort.14_J26_ipar1
+process fort.14_J27_ipar0
+process fort.14_J27_ipar1
+process fort.14_J28_ipar0
+process fort.14_J28_ipar1
+process fort.14_J29_ipar0
+process fort.14_J29_ipar1
+process fort.14_J30_ipar0
+process fort.14_J30_ipar1
+process fort.14_J31_ipar0
+process fort.14_J31_ipar1
+process fort.14_J32_ipar0
+process fort.14_J32_ipar1
+process fort.14_J33_ipar0
+process fort.14_J33_ipar1
+process fort.14_J34_ipar0
+process fort.14_J34_ipar1
+process fort.14_J35_ipar0
+process fort.14_J35_ipar1
+process fort.14_J36_ipar0
+process fort.14_J36_ipar1
+process fort.14_J37_ipar0
+process fort.14_J37_ipar1
+process fort.14_J38_ipar0
+process fort.14_J38_ipar1
+process fort.14_J39_ipar0
+process fort.14_J39_ipar1
+process fort.14_J40_ipar0
+process fort.14_J40_ipar1
+ jmax =   40
+ nlevels =       220630
+Reading energies...
+process fort.14_J0_ipar0                                  
+process fort.14_J0_ipar1                                  
+process fort.14_J1_ipar0                                  
+process fort.14_J1_ipar1                                  
+process fort.14_J2_ipar0                                  
+process fort.14_J2_ipar1                                  
+process fort.14_J3_ipar0                                  
+process fort.14_J3_ipar1                                  
+process fort.14_J4_ipar0                                  
+process fort.14_J4_ipar1                                  
+process fort.14_J5_ipar0                                  
+process fort.14_J5_ipar1                                  
+process fort.14_J6_ipar0                                  
+process fort.14_J6_ipar1                                  
+process fort.14_J7_ipar0                                  
+process fort.14_J7_ipar1                                  
+process fort.14_J8_ipar0                                  
+process fort.14_J8_ipar1                                  
+process fort.14_J9_ipar0                                  
+process fort.14_J9_ipar1                                  
+process fort.14_J10_ipar0                                 
+process fort.14_J10_ipar1                                 
+process fort.14_J11_ipar0                                 
+process fort.14_J11_ipar1                                 
+process fort.14_J12_ipar0                                 
+process fort.14_J12_ipar1                                 
+process fort.14_J13_ipar0                                 
+process fort.14_J13_ipar1                                 
+process fort.14_J14_ipar0                                 
+process fort.14_J14_ipar1                                 
+process fort.14_J15_ipar0                                 
+process fort.14_J15_ipar1                                 
+process fort.14_J16_ipar0                                 
+process fort.14_J16_ipar1                                 
+process fort.14_J17_ipar0                                 
+process fort.14_J17_ipar1                                 
+process fort.14_J18_ipar0                                 
+process fort.14_J18_ipar1                                 
+process fort.14_J19_ipar0                                 
+process fort.14_J19_ipar1                                 
+process fort.14_J20_ipar0                                 
+process fort.14_J20_ipar1                                 
+process fort.14_J21_ipar0                                 
+process fort.14_J21_ipar1                                 
+process fort.14_J22_ipar0                                 
+process fort.14_J22_ipar1                                 
+process fort.14_J23_ipar0                                 
+process fort.14_J23_ipar1                                 
+process fort.14_J24_ipar0                                 
+process fort.14_J24_ipar1                                 
+process fort.14_J25_ipar0                                 
+process fort.14_J25_ipar1                                 
+process fort.14_J26_ipar0                                 
+process fort.14_J26_ipar1                                 
+process fort.14_J27_ipar0                                 
+process fort.14_J27_ipar1                                 
+process fort.14_J28_ipar0                                 
+process fort.14_J28_ipar1                                 
+process fort.14_J29_ipar0                                 
+process fort.14_J29_ipar1                                 
+process fort.14_J30_ipar0                                 
+process fort.14_J30_ipar1                                 
+process fort.14_J31_ipar0                                 
+process fort.14_J31_ipar1                                 
+process fort.14_J32_ipar0                                 
+process fort.14_J32_ipar1                                 
+process fort.14_J33_ipar0                                 
+process fort.14_J33_ipar1                                 
+process fort.14_J34_ipar0                                 
+process fort.14_J34_ipar1                                 
+process fort.14_J35_ipar0                                 
+process fort.14_J35_ipar1                                 
+process fort.14_J36_ipar0                                 
+process fort.14_J36_ipar1                                 
+process fort.14_J37_ipar0                                 
+process fort.14_J37_ipar1                                 
+process fort.14_J38_ipar0                                 
+process fort.14_J38_ipar1                                 
+process fort.14_J39_ipar0                                 
+process fort.14_J39_ipar1                                 
+process fort.14_J40_ipar0                                 
+process fort.14_J40_ipar1                                 
+ZPE =     3291.160322
+   0   1      1000
+   0   2         0
+   0   3         0
+   0   4      1000
+   1   1       300
+   1   2       300
+   1   3       300
+   1   4       300
+   2   1       450
+   2   2       450
+   2   3       450
+   2   4       450
+   3   1       600
+   3   2       600
+   3   3       600
+   3   4       600
+   4   1       750
+   4   2       750
+   4   3       750
+   4   4       750
+   5   1       900
+   5   2       900
+   5   3       900
+   5   4       900
+   6   1      1050
+   6   2      1050
+   6   3      1050
+   6   4      1050
+   7   1      1085
+   7   2      1085
+   7   3      1085
+   7   4      1085
+   8   1      1220
+   8   2      1220
+   8   3      1220
+   8   4      1220
+   9   1      1310
+   9   2      1310
+   9   3      1310
+   9   4      1310
+  10   1      1425
+  10   2      1425
+  10   3      1425
+  10   4      1425
+  11   1      1475
+  11   2      1475
+  11   3      1475
+  11   4      1475
+  12   1      1565
+  12   2      1565
+  12   3      1565
+  12   4      1565
+  13   1      1620
+  13   2      1620
+  13   3      1620
+  13   4      1620
+  14   1      1740
+  14   2      1740
+  14   3      1740
+  14   4      1740
+  15   1      1745
+  15   2      1745
+  15   3      1745
+  15   4      1745
+  16   1      1795
+  16   2      1795
+  16   3      1795
+  16   4      1795
+  17   1      1810
+  17   2      1810
+  17   3      1810
+  17   4      1810
+  18   1      1830
+  18   2      1830
+  18   3      1830
+  18   4      1830
+  19   1      1820
+  19   2      1820
+  19   3      1820
+  19   4      1820
+  20   1      1810
+  20   2      1810
+  20   3      1810
+  20   4      1810
+  21   1      1800
+  21   2      1800
+  21   3      1800
+  21   4      1800
+  22   1      1790
+  22   2      1790
+  22   3      1790
+  22   4      1790
+  23   1      1750
+  23   2      1750
+  23   3      1750
+  23   4      1750
+  24   1      1730
+  24   2      1730
+  24   3      1730
+  24   4      1730
+  25   1      1670
+  25   2      1670
+  25   3      1670
+  25   4      1670
+  26   1      1660
+  26   2      1660
+  26   3      1660
+  26   4      1660
+  27   1      1640
+  27   2      1640
+  27   3      1640
+  27   4      1640
+  28   1      1575
+  28   2      1575
+  28   3      1575
+  28   4      1575
+  29   1      1560
+  29   2      1560
+  29   3      1560
+  29   4      1560
+  30   1      1460
+  30   2      1460
+  30   3      1460
+  30   4      1460
+  31   1      1315
+  31   2      1315
+  31   3      1315
+  31   4      1315
+  32   1      1250
+  32   2      1250
+  32   3      1250
+  32   4      1250
+  33   1      1230
+  33   2      1230
+  33   3      1230
+  33   4      1230
+  34   1      1165
+  34   2      1165
+  34   3      1165
+  34   4      1165
+  35   1      1165
+  35   2      1100
+  35   3      1165
+  35   4      1100
+  36   1      1100
+  36   2      1100
+  36   3      1100
+  36   4      1100
+  37   1      1100
+  37   2      1100
+  37   3      1100
+  37   4      1100
+  38   1      1165
+  38   2      1165
+  38   3      1165
+  38   4      1165
+  39   1      1165
+  39   2      1165
+  39   3      1165
+  39   4      1165
+  40   1      1100
+  40   2      1100
+  40   3      1100
+  40   4      1100
+ N of levels =        220630
+Generate the Transition file ...
+process fort.13                                                         0
+J =        1             0
+J =        2         45341
+J =        3        133704
+J =        4        336691
+J =        5        636219
